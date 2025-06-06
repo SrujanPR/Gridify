@@ -45,7 +45,7 @@ Visit the app here: [https://gridify-delta.vercel.app/](https://gridify-delta.ve
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gridify.git
+https://github.com/SrujanPR/Gridify.git
 cd gridify
 ```
 
